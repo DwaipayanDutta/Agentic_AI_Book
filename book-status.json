@@ -16,7 +16,7 @@
           "file": "chapters/01-foundations/chapter-01-generative-ai-foundations.md",
           "status": "COMPLETE",
           "created_date": "2026-09-22",
-          "word_count": 12847,
+          "word_count": 5818,
           "sections": 15,
           "quality_gates_passed": 50,
           "quality_gates_total": 50,
@@ -208,7 +208,7 @@
     "appendices_pending": 11,
     "total_appendices": 11,
     "appendices_percentage_complete": 0.0,
-    "total_word_count": 12847,
+    "total_word_count": 5818,
     "total_word_count_target": 750000,
     "estimated_pages": 60,
     "estimated_pages_target": 3000
